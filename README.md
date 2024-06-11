@@ -54,7 +54,7 @@ flutter run
 
 
 <p align="center">
-  <img src="assets/images/1.png" alt="Capture d'écran 1" width="300"/>
-  <img src="assets/images/2.png" alt="Capture d'écran 2" width="300"/>
-  <img src="assets/images/3.png" alt="Capture d'écran 3" width="300"/>
+  <img src="assets/images/1.png" alt="Capture d'écran 1" width="200"/>
+  <img src="assets/images/2.png" alt="Capture d'écran 2" width="200"/>
+  <img src="assets/images/3.png" alt="Capture d'écran 3" width="200"/>
 </p>
