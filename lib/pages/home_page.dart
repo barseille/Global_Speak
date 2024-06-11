@@ -86,22 +86,6 @@ class _HomePageState extends State<HomePage> {
         ),
         // Centre le texte dans la page.
         alignment: Alignment.center,
-        // Ajoute une bordure autour du texte.
-        decoration: BoxDecoration(
-          borderRadius: BorderRadius.circular(15),
-          border: Border.all(
-            color: Colors.teal, // Couleur de la bordure.
-            width: 2,
-          ),
-          // Ajoute de l'ombre pour un effet 3D.
-          boxShadow: const [
-            BoxShadow(
-              color: Colors.black12,
-              blurRadius: 10,
-              offset: Offset(2, 2),
-            ),
-          ],
-        ),
         // Le texte principal affiché sur la page.
         child: Text(
           context.formatString(LocaleData.body, ["Jayden"]),
